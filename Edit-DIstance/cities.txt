@@ -1,0 +1,30 @@
+karachi
+lahore
+faisalabad
+rawalpindi
+gujranwala
+peshawar
+multan
+hyderabad
+islamabad
+quetta
+bahawalpur
+sargodha
+sialkot
+sukkur
+larkana
+rahim yar khan
+sheikhpura
+jhang
+dera ghazi khan
+gujrat
+sahiwal
+wah cantonment
+mardan
+kasur
+okara
+mingora
+nawabshah
+chiniot
+kotri
+kamoke
